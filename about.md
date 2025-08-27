@@ -9,3 +9,5 @@ mediapipe
 pygame
 <br>
 time 
+<br> 
+just an small game
