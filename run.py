@@ -146,11 +146,7 @@ while vid.isOpened()==True:
         ###
         if toe==1:
             cv2.rectangle(f,(100,200),(500,400),(45,78,213),-1)
-            cv2.putText(f,"CREATED BY ",(100,250),cv2.FONT_ITALIC,1,(102,25,120),4)
-            cv2.putText(f,"   Yogendra kumawat",(100,300),cv2.FONT_ITALIC,1,(202,25,120),4)    
-            cv2.putText(f,"      2023 KUEC 2018",(100,350),cv2.FONT_ITALIC,1,(202,25,120),4)    
-
-        
+            cv2.putText(f,"START",(100,250),cv2.FONT_ITALIC,1,(102,25,120),4)        
         f=cv2.resize(f,(1370,700))        
         cv2.imshow("fg",f)
         # Play the sound
