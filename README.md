@@ -53,6 +53,9 @@ Bubbles fall from the top of the screen. Point your **index finger** at a bubble
 4. **Miss a bubble** (it reaches the bottom) = **−1 life**
 5. **Game over** when all 5 lives are gone — point at START to restart
 
+## Flashback
+<img width="1711" height="914" alt="demo" src="https://github.com/user-attachments/assets/9c268493-5465-4044-a21a-de9a5ba82d1e" />
+
 ### Controls Summary
 
 | Action | How |
